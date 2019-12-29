@@ -39,7 +39,7 @@ class LifeTwo {
 
 var sub = new Subjects();
 
-var P1 = new LifeOne();
+var p1 = new LifeOne();
 var p2 = new LifeTwo();
 
 sub.subscribe(p1);
